@@ -12,6 +12,7 @@ numpy = "*"
 keras = "*"
 matplotlib = "*"
 scikit-learn = "*"
+jupyter = "*"
 
 
 [dev-packages]
