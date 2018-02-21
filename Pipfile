@@ -13,6 +13,8 @@ keras = "*"
 matplotlib = "*"
 scikit-learn = "*"
 jupyter = "*"
+seaborn = "*"
+graphviz = "*"
 
 
 [dev-packages]
