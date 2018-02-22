@@ -16,6 +16,7 @@ jupyter = "*"
 seaborn = "*"
 graphviz = "*"
 pydot = "*"
+scipy = "*"
 
 
 [dev-packages]
