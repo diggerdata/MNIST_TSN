@@ -15,6 +15,7 @@ scikit-learn = "*"
 jupyter = "*"
 seaborn = "*"
 graphviz = "*"
+pydot = "*"
 
 
 [dev-packages]
